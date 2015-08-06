@@ -1,2 +1,4 @@
 # sumor-oralie
-c++ projects pulled from a popular textbook
+solutions to projects pulled from a popular c++ textbook
+
+Copyright 2015 Niccolò Terreri
